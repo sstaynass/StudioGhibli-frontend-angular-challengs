@@ -20,3 +20,16 @@ h5,
 h6 {
   font-family: "Andada Pro", serif;
 }
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+
+body {
+  background-image: url('/wallpaper.png');
+  background-size: cover;      
+  background-position: center;  
+  background-repeat: no-repeat; 
+}
