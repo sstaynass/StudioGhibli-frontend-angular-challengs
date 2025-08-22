@@ -62,6 +62,7 @@ img {
     border-radius: 5px;
     border: 0;
     margin: 0 30px 0 0;
+    cursor: pointer;
 }
 
 .botoes {
@@ -84,6 +85,7 @@ img {
     display: flex;
     border-radius: 5px;
     border-color: #F1A5B1;
+    cursor: pointer;
 }
 #chihiro {
     padding: 0;
@@ -91,4 +93,9 @@ img {
     justify-content: center;
     align-items: center;
     margin-top: -150px
+}
+.link {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
 }
